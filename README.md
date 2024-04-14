@@ -1,7 +1,7 @@
 <h1>Easy Shopping</h1>
 <br>
 <a href="https://easy-shopping24.netlify.app">Acessar a página</a>
-
+<h2>Este projeto foi desenvolvido para adquirir mais conhecimento sobre as aulas CSS pela DEVCLUB</h2>
 <br>
 <br>
 <p>Projeto criado com as tecnologias:
@@ -14,5 +14,5 @@
 <br>
 <br>
 
-<img src="https://github.com/Alineaalvess/projeto.cafeteria/blob/main/assets/img.principal.png">
+<img src="https://raw.githubusercontent.com/Alineaalvess/projeto-2.css/5cf34ee98a5e7bae041317fe24f1c222da5f5c6d/assets/img.principal.png">
 
